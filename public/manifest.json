@@ -1,0 +1,25 @@
+{
+  "name": "Oneness",
+  "short_name": "Oneness",
+  "description": "Oneness",
+  "icons": [
+    {
+      "src": "public/images/logo-big.svg",
+      "sizes": "200x200",
+      "type": "image/svg",
+      "purpose": "any maskable"
+    }
+   
+  ],
+  "start_url": "/?standalone=true",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#101010",
+  "lang": "en",
+  "image": {
+    "url": "public/images/twitter.svg",
+    "alt": "Oneness",
+    "width": "200",
+    "height": "200"
+  }
+}
